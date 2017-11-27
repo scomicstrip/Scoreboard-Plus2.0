@@ -1,7 +1,7 @@
 # Scoreboard+ 2.0
 <h1>Remake of Scoreboard+</h1>
 
-<p>Scoreboard+ 1.0 was an interesting program I made, during my free time, that wasn't going to be released to the public. I have now seen people using this software around the world and I realized my code needed to be rewritten from the scratch. I have realized there were too many bugs and glitches that were unfixable unless I created a freshly written code. This is the rewritten code that has not been finished for a while, due to how busy my life has became, and required to be developed. If anyone wants to contribute to this project I would really appreciate it and gladly help with anything. For now I will not be working on this project until I have time</p>
+<p>Scoreboard+ 1.0 was an interesting program I made, during my free time, that wasn't going to release to the public. I have now seen people using this software around the world and I realized that my code needed to be rewritten from the scratch. I have realized there were too many bugs and glitches that were unfixable unless I created a freshly written code. This is the rewritten code that has not been finished for a while, due to how busy my life has became, and required to be developed. If anyone wants to contribute to this project I would really appreciate it and gladly help with anything. For now I will not be working on this project until I have time</p>
 
 <h1>Features that I want to put into Scoreboard+ 2.0. Including people's suggetions:</h1>
 <ul>
