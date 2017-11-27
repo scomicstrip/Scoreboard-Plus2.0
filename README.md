@@ -15,5 +15,5 @@
 
 <h1>Libraries that are going to be used</h1>
 <ul>
-  <li><a href="http://www.un4seen.com">BASS</a> - For Audio</li>
+  <li><a href="http://www.un4seen.com" target="_blank">BASS</a> - For Audio</li>
   </ul>
