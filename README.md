@@ -12,3 +12,8 @@
   <li>Add animation to the scoreboard</li>
   <li>Fix all the common bugs and glitches that are in the Scoreboard+ 1.X</li>
   </ul>
+
+<h1>Libraries that are going to be used</h1>
+<ul>
+  <li><a href="http://www.un4seen.com">BASS</a> - For Audio</li>
+  </ul>
